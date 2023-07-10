@@ -9,3 +9,7 @@ Comment_Remover是一个用于自动删除代码中注释的项目。它可以�
 ## 联系作者
 
 `tech-whimsy(at)outlook.com`
+
+## 版权声明
+
+`Copyright (C) 2023 hrhszsdtc`
