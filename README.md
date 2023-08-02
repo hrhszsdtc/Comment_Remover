@@ -12,4 +12,4 @@ Comment_Remover是一个用于自动删除代码中注释的项目。它可以�
 
 ## 版权声明
 
-`Copyright (C) 2023 hrhszsdtc`
+`Copyright (C) hrhszsdtc All Rights Reserved.`
